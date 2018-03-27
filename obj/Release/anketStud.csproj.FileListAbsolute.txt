@@ -1,0 +1,16 @@
+F:\anketStud\anketStud\bin\Release\db.cs
+F:\anketStud\anketStud\bin\Release\anketStud.exe.config
+F:\anketStud\anketStud\bin\Release\anketStud.exe
+F:\anketStud\anketStud\bin\Release\anketStud.pdb
+F:\anketStud\anketStud\bin\Release\MySql.Data.dll
+F:\anketStud\anketStud\bin\Release\MySql.Data.xml
+F:\anketStud\anketStud\obj\Release\MainWindow.g.cs
+F:\anketStud\anketStud\obj\Release\App.g.cs
+F:\anketStud\anketStud\obj\Release\anketStud_MarkupCompile.cache
+F:\anketStud\anketStud\obj\Release\anketStud_MarkupCompile.lref
+F:\anketStud\anketStud\obj\Release\MainWindow.baml
+F:\anketStud\anketStud\obj\Release\anketStud.g.resources
+F:\anketStud\anketStud\obj\Release\anketStud.Properties.Resources.resources
+F:\anketStud\anketStud\obj\Release\anketStud.csproj.GenerateResource.Cache
+F:\anketStud\anketStud\obj\Release\anketStud.exe
+F:\anketStud\anketStud\obj\Release\anketStud.pdb
